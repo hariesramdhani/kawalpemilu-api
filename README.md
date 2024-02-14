@@ -13,3 +13,5 @@ Data updates every 10 minutes
 - [ ] Make the API public
 - [ ] Scrape city/regency level data
 - [ ] Save and load data directly to/from Postgre instead of saving it to JSON
+
+All credit for the data belongs to the KawalPemilu team!
